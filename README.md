@@ -1,2 +1,4 @@
 # TechComm-Training
 Used to train fellow TechComm members
+
+DO NOT INCLUDE CONFIDENTIAL INFORMATION. ANYONE WHO USES GITHUB CAN SEE THIS REPOSITORY.
